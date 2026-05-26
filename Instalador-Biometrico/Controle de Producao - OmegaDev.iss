@@ -1,10 +1,10 @@
 ﻿[Setup]
 AppName=Controle de Produção - ÔmegaDev
-AppVersion=1.4.8
+AppVersion=1.0
 DefaultDirName={userappdata}\Controle de Produção - ÔmegaDev
 DefaultGroupName=Controle de Produção - ÔmegaDev
 OutputDir=.
-OutputBaseFilename=Controle de Produção - ÔmegaDev Setup 1.4.8
+OutputBaseFilename=Controle de Produção - ÔmegaDev Setup 1.0
 Compression=lzma
 SolidCompression=yes
 ArchitecturesInstallIn64BitMode=x64
