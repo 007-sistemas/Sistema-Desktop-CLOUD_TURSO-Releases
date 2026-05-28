@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.5",
-    "setupUrl":  "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/Controle%20de%20Produ%C3%A7%C3%A3o%20-%20%C3%94megaDev%20Setup%201.5.exe",
-    "changelog":  "🚀 Novidades nesta versao:\\n- Alterar número da versão"
+    "version":  "1.6",
+    "setupUrl":  "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/Controle%20de%20Produ%C3%A7%C3%A3o%20-%20%C3%94megaDev%20Setup%201.6.exe",
+    "changelog":  "🚀 Novidades nesta versao:\\n- Correcao de caminhos do atualizador e melhorias de desempenho"
 }
