@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.9",
-    "setupUrl":  "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/Controle%20de%20Produ%C3%A7%C3%A3o%20-%20%C3%94megaDev%20Setup%201.9.exe",
-    "changelog":  "🚀 Novidades nesta versao:\\n- Espelho da biometria/novo visual em \"cadastrar biometria\" e \"Parametros\""
+    "version":  "2.0",
+    "setupUrl":  "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/Controle%20de%20Produ%C3%A7%C3%A3o%20-%20%C3%94megaDev%20Setup%202.0.exe",
+    "changelog":  "🚀 Novidades nesta versao:\\n- Aumento de leitura no turso para 1 hora e redução de consumo de leituras"
 }
