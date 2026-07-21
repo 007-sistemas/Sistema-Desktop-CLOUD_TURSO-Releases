@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2.2",
-    "setupUrl":  "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/Controle%20de%20Produ%C3%A7%C3%A3o%20-%20%C3%94megaDev%20Setup%202.2.exe",
-    "changelog":  "🚀 Novidades nesta versao:\\n- Status do cooperado estava buscnado no turso em tempo real e causava lentidão/travamento da digital, corrigido"
+    "version":  "2.4",
+    "setupUrl":  "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/Controle%20de%20Produ%C3%A7%C3%A3o%20-%20%C3%94megaDev%20Setup%202.4.exe",
+    "changelog":  "🚀 Novidades nesta versao:\\n- Novo visual para cadastrar biometria índices"
 }
