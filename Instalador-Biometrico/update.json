@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2.5",
-    "setupUrl":  "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/Controle%20de%20Produ%C3%A7%C3%A3o%20-%20%C3%94megaDev%20Setup%202.5.exe",
-    "changelog":  "🚀 Novidades nesta versao:\\n- Correção de redimensionamento da tela de cadastrar digital para resoluções diferentes"
+    "version":  "2.6",
+    "setupUrl":  "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/Controle%20de%20Produ%C3%A7%C3%A3o%20-%20%C3%94megaDev%20Setup%202.6.exe",
+    "changelog":  "🚀 Novidades nesta versao:\\n- Redução de leituras duplicadas no turso"
 }
