@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2.6",
-    "setupUrl":  "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/Controle%20de%20Produ%C3%A7%C3%A3o%20-%20%C3%94megaDev%20Setup%202.6.exe",
-    "changelog":  "🚀 Novidades nesta versao:\\n- Redução de leituras duplicadas no turso"
+    "version":  "2.7",
+    "setupUrl":  "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/Controle%20de%20Produ%C3%A7%C3%A3o%20-%20%C3%94megaDev%20Setup%202.7.exe",
+    "changelog":  "🚀 Novidades nesta versao:\\n- Agora após 5 tentativas falhas de sincronizar os pontos e o sistema passa a tentar novamente a cada 10 minutos"
 }
