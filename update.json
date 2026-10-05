@@ -1,5 +1,5 @@
 ﻿{
-    "version": "2.8",
-    "setupUrl": "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/Controle%20de%20Produ%C3%A7%C3%A3o%20-%20%C3%94megaDev%20Setup%202.8.exe",
-    "changelog": "🚀 Novidades nesta versao:\n- Heartbeat grava direto no banco da cooperativa, com nova tentativa e reserva pelo site\n- Teste de conexão envia a empresa correta da unidade\n- Sincronização de pontos tenta de novo a cada 10 minutos após falhas seguidas"
+    "version": "2.9",
+    "setupUrl": "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/CoopFlow%20Setup%202.9.exe",
+    "changelog": "🚀 Novidades nesta versao:\n- Nova identidade visual CoopFlow (nome, logo e cores)\n- Seleção automática do setor quando a unidade tem um só\n- Heartbeat grava direto no banco da cooperativa, com nova tentativa e reserva pelo site\n- Teste de conexão envia a empresa correta da unidade"
 }
