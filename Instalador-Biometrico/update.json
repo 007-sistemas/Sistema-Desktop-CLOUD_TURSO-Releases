@@ -1,5 +1,5 @@
 ﻿{
-    "version": "2.9",
-    "setupUrl": "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/CoopFlow%20Setup%202.9.exe",
-    "changelog": "🚀 Novidades nesta versao:\n- Nova identidade visual CoopFlow (nome, logo e cores)\n- Seleção automática do setor quando a unidade tem um só\n- Heartbeat grava direto no banco da cooperativa, com nova tentativa e reserva pelo site\n- Teste de conexão envia a empresa correta da unidade"
+    "version": "3.0",
+    "setupUrl": "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/CoopFlow%20Setup%203.0.exe",
+    "changelog": "🚀 Novidades nesta versao:\n- Corrigido: leitor de biometria parava de capturar após alguns minutos sem registros em unidades com setor único\n- Corrigido: leitor não reativava automaticamente após cada registro em unidades com setor único\n- Agora, com apenas um setor cadastrado, o cooperado só precisa colocar a digital, sem precisar selecionar o setor manualmente"
 }
