@@ -1,5 +1,5 @@
 ﻿{
-    "version": "3.1",
-    "setupUrl": "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/CoopFlow%20Setup%203.1.exe",
-    "changelog": "🚀 Novidades nesta versao:\n- Corrigido (urgente): tela de Cadastrar Biometria não conseguia iniciar a captura (\"Failed to start acquisition\") em unidades com setor único, pois o leitor da tela de produção ficava sempre ocupado\n- Corrigido: leitor de biometria parava de capturar após alguns minutos sem registros em unidades com setor único\n- Corrigido: leitor não reativava automaticamente após cada registro em unidades com setor único"
+    "version": "3.2",
+    "setupUrl": "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/CoopFlow%20Setup%203.2.exe",
+    "changelog": "🚀 Novidades nesta versao:\n- Novo atalho Ctrl+Alt+F para destravar a tela do sistema sem precisar de senha\n- Corrigido (urgente): tela de Cadastrar Biometria não conseguia iniciar a captura (\"Failed to start acquisition\") em unidades com setor único\n- Corrigido: leitor de biometria parava de capturar após alguns minutos sem registros em unidades com setor único"
 }
