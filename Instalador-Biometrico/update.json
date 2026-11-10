@@ -1,5 +1,5 @@
 ﻿{
-    "version": "3.0",
-    "setupUrl": "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/CoopFlow%20Setup%203.0.exe",
-    "changelog": "🚀 Novidades nesta versao:\n- Corrigido: leitor de biometria parava de capturar após alguns minutos sem registros em unidades com setor único\n- Corrigido: leitor não reativava automaticamente após cada registro em unidades com setor único\n- Agora, com apenas um setor cadastrado, o cooperado só precisa colocar a digital, sem precisar selecionar o setor manualmente"
+    "version": "3.1",
+    "setupUrl": "https://raw.githubusercontent.com/007-sistemas/Sistema-Desktop-CLOUD_TURSO-Releases/main/Instalador-Biometrico/CoopFlow%20Setup%203.1.exe",
+    "changelog": "🚀 Novidades nesta versao:\n- Corrigido (urgente): tela de Cadastrar Biometria não conseguia iniciar a captura (\"Failed to start acquisition\") em unidades com setor único, pois o leitor da tela de produção ficava sempre ocupado\n- Corrigido: leitor de biometria parava de capturar após alguns minutos sem registros em unidades com setor único\n- Corrigido: leitor não reativava automaticamente após cada registro em unidades com setor único"
 }
